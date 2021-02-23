@@ -1,1 +1,1 @@
-官方網站請至 [rock-mc.github.io/](rock-mc.github.io/)
+官方網站請至 [https://rock-mc.github.io/](https://rock-mc.github.io/)
