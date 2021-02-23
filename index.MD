@@ -9,4 +9,4 @@
 加入前請先閱讀 [伺服器規則](https://rock-mc.github.io/rule/)  
 加入有兩個方法
 - (推薦、免面試) 找到磐石伺服器的朋友，請他給你邀請碼
-- 請至 Discord https://discord.gg/Kd3W7s8TUv 標記客服申請面試
+- 請至 [Discord](https://discord.gg/Kd3W7s8TUv) 標記客服申請面試
