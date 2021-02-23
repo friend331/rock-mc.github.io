@@ -4,6 +4,13 @@
 
 # 磐石伺服器 Rock Minecraft Server
 磐石伺服器是一個邀請制的原味生存伺服器。目標是提供一個長期穩定不延遲的伺服器。  
+預計於 1.17 版本開放
+
+## 徵求
+報名管理者請洽 discord: CodingMan#9434
+- 管理者
+  - 招募
+  - 客服
 
 ## 如何加入
 加入前請先閱讀 [伺服器規則](https://rock-mc.github.io/rule/)  
